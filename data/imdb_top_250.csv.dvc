@@ -1,0 +1,5 @@
+outs:
+- md5: 7b5e4041950514294a7f471b531bff5c
+  size: 8354
+  hash: md5
+  path: imdb_top_250.csv
